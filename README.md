@@ -3,7 +3,7 @@
 
 This version of the ord wallet is based on ord wallet 0.5.2 and not intended to be a fork. Do NOT use this for any other purpose than showcasing!
 
-You can use it to "simulate" how cursed ordinals done using OP_66 and 2nd input methods could look like in a final ord wallet version.
+You can use it to "simulate" how cursed ordinals using OP_66 and 2nd input methods could look like in a final ord wallet version.
 It preserves ownership addresses based on 0.5.2 calculations and does NOT support 1/N inscriptions and the new satpoint calculations as of ord wallet 0.6.0+.
 
 Regular ordinals are filtered from any view.
